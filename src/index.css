@@ -1,0 +1,18 @@
+:root {
+    --green: #C7F464;
+    --blue: #4ECDC4;
+    --red: #FF6B6B;
+}
+
+body {
+    margin: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+
+    background-color: #000;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
