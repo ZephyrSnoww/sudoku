@@ -1,5 +1,4 @@
 import React from "react";
-import { makepuzzle, solvepuzzle } from "sudoku";
 import "./Gameboard.css";
 import OuterRow from "./OuterRow";
 
